@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-</br>
-
 [![spacewalker's GitHub stats](https://github-readme-stats.vercel.app/api?username=spacewalk01)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Pytorch](https://img.shields.io/badge/-Pytorch-007ACC?style=plastic&logo=pytorch) 
