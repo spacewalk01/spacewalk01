@@ -1,6 +1,6 @@
 ### I am teaching a machine to think
 
-[![spacewalker's GitHub stats](https://github-readme-stats.vercel.app/api?username=spacewalk01)](https://github.com/anuraghazra/github-readme-stats)
+[![spacewalker's GitHub stats](https://github-readme-stats.vercel.app/api?username=spacewalk01&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Pytorch](https://img.shields.io/badge/-Pytorch-007ACC?style=plastic&logo=pytorch) 
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-8fcfd1?style=plastic&logo=tensorflow) 
