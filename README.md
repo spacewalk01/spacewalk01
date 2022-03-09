@@ -1,4 +1,4 @@
-### I am teaching a machine to think
+### I am teaching machines to think
 
 [![spacewalker's GitHub stats](https://github-readme-stats.vercel.app/api?username=spacewalk01&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
