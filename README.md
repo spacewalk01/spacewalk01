@@ -13,6 +13,7 @@ I am teaching machines to learn.
   </tr>
 </table>
 
-table {
-    border-collapse: collapse;
-}
+<style>
+table, tr {border:hidden;}
+td, th {border:hidden;}
+</style>
