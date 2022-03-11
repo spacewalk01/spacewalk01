@@ -12,4 +12,7 @@ I am teaching machines to learn.
   <tr>
   </tr>
 </table>
-table {border: none;}
+
+table {
+    border-collapse: collapse;
+}
