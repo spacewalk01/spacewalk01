@@ -1,5 +1,4 @@
-I am teaching machines to learn.
-
+Enthusiastic artificial intelligence engineer seeking to deliver state-of-the-art AI solutions at Company X. Experience includes using deep learning and computer vision for my own personal projects. Relevant skills include Machine Learning, Data Science and Data Structures.
 
 [![spacewalker's GitHub stats](https://github-readme-stats.vercel.app/api?username=spacewalk01&show_icons=true&hide=prs,issues,commits&hide_title=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
  
