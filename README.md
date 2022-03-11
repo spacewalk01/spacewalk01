@@ -14,6 +14,7 @@ I am teaching machines to learn.
 </table>
 
 <style>
-table, tr {border:hidden;}
-td, th {border:hidden;}
+td, th {
+   border: none!important;
+}
 </style>
