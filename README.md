@@ -5,7 +5,7 @@ I am teaching machines to learn.
 
 <table style="margin-left:auto; margin-right:auto;">
   <tr>
-    <td><img src="https://raw.githubusercontent.com/spacewalk01/tensorrt-openpose/.github/results/test2.gif" height=150px width=280px></td>
+    <td><img src="https://raw.githubusercontent.com/spacewalk01/tensorrt-openpose/results/test2.gif" height=150px width=280px></td>
     
 
     
