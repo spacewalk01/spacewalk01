@@ -4,7 +4,7 @@ I am teaching machines to learn.
 
 <table style="margin-left:auto; margin-right:auto;">
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/6389915/157933424-2fac4710-6df5-4e50-8400-48343cf170f5.gif" height=150px width=280px></td>
+    <td><img src="https://user-images.githubusercontent.com/6389915/157934299-5606f414-9814-4eb8-a128-f916a617f0bc.gif" height=150px width=280px></td>
   </tr>
   <tr>
   </tr>
