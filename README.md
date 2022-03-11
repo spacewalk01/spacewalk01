@@ -1,6 +1,6 @@
 Enthusiastic artificial intelligence engineer seeking to deliver state-of-the-art AI solutions. Experience includes using deep learning and computer vision for my own personal projects. Relevant skills include Machine Learning, Data Science and Data Structures.
 
-[![spacewalker's GitHub stats](https://github-readme-stats.vercel.app/api?username=spacewalk01&show_icons=true&hide_title=true&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
+[![spacewalker's GitHub stats](https://github-readme-stats.vercel.app/api?username=spacewalk01&show_icons=true&hide_title=true&include_all_commits=true,hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
  
 <table style="margin-left:auto; margin-right:auto; ">
   <tr>
