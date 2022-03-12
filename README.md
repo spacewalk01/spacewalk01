@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Enthusiastic artificial intelligence engineer seeking to deliver state-of-the-art AI solutions. Experience includes using deep learning and computer vision for my own personal projects. Relevant skills include Machine Learning, Data Science and Data Structures.
+I am enthusiastic artificial intelligence engineer seeking to deliver state-of-the-art AI solutions. My experience includes using deep learning and computer vision for my own personal projects. Relevant skills include Machine Learning, Data Science and Data Structures.
 
  
 <table style="margin-left:auto; margin-right:auto; ">
