@@ -16,5 +16,5 @@ Enthusiastic artificial intelligence engineer seeking to deliver state-of-the-ar
 
 [![spacewalker's GitHub stats](https://github-readme-stats.vercel.app/api?username=spacewalk01&show_icons=true&hide_title=true&&hide=prs&include_all_commits=true,hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Linkedin: spacewalker](https://img.shields.io/badge/-Robin%20Cole-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in//)](https://www.linkedin.com/in//)
+[![Linkedin: spacewalker](https://img.shields.io/badge/style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in//)](https://www.linkedin.com/in//)
 [![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-red)](https://scholar.google.com/)
