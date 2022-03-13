@@ -17,7 +17,7 @@ I am an enthusiastic artificial intelligence engineer seeking to deliver state-o
 
 
 <details>
-<summary>📈 My GitHub Stats</summary>
+<summary>📈 My github stats</summary>
 
 <br/>
 
