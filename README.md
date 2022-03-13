@@ -1,4 +1,4 @@
-### Denise Rich
+### 
 
 I am an enthusiastic artificial intelligence engineer seeking to deliver state-of-the-art AI solutions. My experience includes using deep learning and computer vision for my own personal projects. Relevant skills include Machine Learning, Data Science and Data Structures.
 
